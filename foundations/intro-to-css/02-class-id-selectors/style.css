@@ -1,6 +1,6 @@
 .oddnumber { 
     background-color: rgba(255, 192, 203, 0.918);
-    font-family: "verdana", "Dejavu Sans", sans-serif;
+    font-family: Verdana, "Dejavu Sans", sans-serif;
 }
 
 #unique {
@@ -8,12 +8,11 @@
     font-size: 36px;
 }
 
-.oddnumber.better {
+.auto-font-size {
     font-size: 24px;
 }
 
 #bold {
     background-color: #90ee90;
-    font-size: 24px;
     font-weight: 700;
 }
